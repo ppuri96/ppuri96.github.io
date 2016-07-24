@@ -1,15 +1,10 @@
-.navbar-brand { 
-    max-height: 40px;
-    max-width: 30%; 
-    overflow: visible;
-    padding-top: 0;
-    padding-bottom: 0; 
+.navbar-elements {
+  margin-right: 3%;
+  margin-left: 3%;
 }
 
-.navbar-custom {
-    background-color: #3498db;
-}
-
-.header { 
-    background-image: url("images/index-bg.jpg")
+#clc-logo {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  height: 55px;
 }
